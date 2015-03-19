@@ -38,6 +38,6 @@ def wiki_rocks(text):
 You can check out the source of this page to see how that's done, and make sure to bookmark [the vast library of Pygment lexers][lexers], we accept the 'short name' or the 'mimetype' of anything in there.
 [lexers]: http://pygments.org/docs/lexers/
 
-[[Blah|blah]]
+[Blah](blah)
 
 Have fun!
